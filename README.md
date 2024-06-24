@@ -16,6 +16,13 @@
 [Preview Youtube](https://www.youtube.com/watch?v=1PoWe2-OD0Y)
 
 
+<h3>Dependencies</h3>
+
+[ox_inventory](https://github.com/overextended/ox_inventory)<br>
+[ox_lib](https://github.com/overextended/ox_lib/releases)<br>
+[oxmysql](https://github.com/overextended/oxmysql)
+
+
 
 <h3>Add this code into: ox_inventory\modules\items\client.lua under Item('bandage') ... end) </h3>
 
